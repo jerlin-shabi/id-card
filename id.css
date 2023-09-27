@@ -1,37 +1,58 @@
 .name{
-  margin-left:80px;
+  margin: 0 auto;
+    display: block;
+  text-align:center;
   
 }
 .button{
-  margin-left:380px;
+  margin: 0 auto;
+    display: block;
 }
 .img{
-  margin-left:130px;
+  margin: 0 auto;
+    display: block;
 }
 .id{
-  margin-left:200px;
+  margin: 0 auto;
+  display: block;
+  text-align:center;
   font-style:Bold;
 }
 .dp{
   
   width:200px;
-  margin-left:168px;
+  margin: 0 auto;
+   display: block;
 }
 .head{
-  margin-left:165px;
+  margin: 0 auto;
+    display: block;
+  text-align:center;
   color:#660000;
   font-weight:800;
   font-family: Arial, Helvetica, sans-serif;
   
 }
 .collage{
-  margin-left:85px;
-  width:400px;
+  margin: 0 auto;
+    display: block;
+ text-align:center;
 }
 .logo{
-  margin-left:150px;
-  width:200px;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+    display: block;
 }
 .link{
-  margin-left:172px;
+  text-align:center;
+  margin: 0 auto;
+   display: block;
+}
+#prince{
+  margin-left:36%;
+  
+}
+h2{
+  font-size:20px;
 }
